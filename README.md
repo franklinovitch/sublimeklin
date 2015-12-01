@@ -1,4 +1,4 @@
-# sublimetext
+# sublimeklin
 Installation, configuration, et préférences pour Sublime text 3
 
 #### Installer Sublime Text 3
