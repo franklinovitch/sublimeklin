@@ -17,9 +17,9 @@
 	
 	"highlight_line": true,
 	
-	"match_brackets_content": false,
-	"match_selection": false,
-	"match_tags": false,
+	"match_brackets_content": true,
+	"match_selection": true,
+	"match_tags": true,
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
 	
