@@ -9,11 +9,14 @@ _https://packagecontrol.io/installation_
 
 #### Packages
 _Ctrl + Shift + P_, taper _install package_, appuyer sur _Entrée_, puis installer les packages :
-* __SFTP__
-* __Predawn__
-* __Predawn Monokai__
-* __PHP-Twig__
-* __ApacheConf.tmLanguage__
+* __All autocomplete__
+* __BracketHighlighter__
+* __DocBlockr__
+* __Git__
+* __GitGutter__
+* __Materialize__
+* __PHP Companion__
+* __Phpcs__
 
 #### Préférences
 Menu > Preferences > Settings - User
