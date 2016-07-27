@@ -1,45 +1,63 @@
 {
-	"theme": "predawn.sublime-theme",
-	"color_scheme": "Packages/Predawn Monokai/Predawn Monokai.tmTheme",
-
+	"always_show_minimap_viewport": true,
+	"atomic_save": false,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
-		
+	
+	"color_scheme": "Packages/Materialize/schemes/Material Monokai.tmTheme",
+	
 	"copy_with_empty_selection": false,
-	
 	"drag_text": false,
-	
 	"draw_minimap_border": true,
 	"enable_tab_scrolling": false,
 	"findreplace_small": true,
-	
-	"font_size": 11,
-	
+
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".vagrant"
+	],
+
+	"font_size": 14,
 	"highlight_line": true,
-	
+
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
 	"match_brackets_content": true,
 	"match_selection": true,
 	"match_tags": true,
+	
+	"material_theme_compact_panel": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_panel_separator": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
-	
-	"predawn_findreplace_small": true,
-	"predawn_quick_panel_small": true,
-	"predawn_sidebar_medium": true,
-	"predawn_tabs_active_underline": false,
-	"predawn_tabs_medium": true,
-	
 	"preview_on_click": true,
 	"scroll_past_end": true,
 	"show_full_path": false,
 	
-	"sidebar_medium": true,
-	
-	"tabs_small": true,
+	"theme": "Material Monokai.sublime-theme",
 	
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	
-	"word_wrap": false,
-	"atomic_save": false,
+	"word_wrap": false
 }
