@@ -7,6 +7,7 @@
 	"color_scheme": "Packages/Materialize/schemes/Material Monokai.tmTheme",
 	
 	"copy_with_empty_selection": false,
+	"default_line_ending": "unix",
 	"drag_text": false,
 	"draw_minimap_border": true,
 	"enable_tab_scrolling": false,
